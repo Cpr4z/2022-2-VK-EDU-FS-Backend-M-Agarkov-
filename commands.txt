@@ -1,0 +1,3 @@
+curl -X POST -d "client_id=RNEGv79PE4a5HDYYCvr6IpanqhCTKZn0541NPCHF&client_secret=LdbaragDbWjAmfLQecMKLfjEibYFGj47JIIyAJAiipPugZDfjdUcgqdCjFYGYEvHpj3DU3vQc3b8f0mH7yJndxaNqgW4MddEd1N9I0mITb8MhLliESqUhOIfpeP1Sn8i&grant_type=password&username=matvey&password=Motya20020629" http://localhost:9000/auth/token
+
+
